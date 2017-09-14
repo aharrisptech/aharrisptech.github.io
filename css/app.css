@@ -1,0 +1,75 @@
+/****************************************************
+General
+*****************************************************/
+.wrap{
+  width:93%;
+  margin:auto;
+}
+body{
+  background-image: url("../images/sunset and paris.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+/****************************************************
+Navigation
+*****************************************************/
+.top-bar {
+background-color: transparent;
+color:black;
+}
+.top-bar ul{
+background-color: transparent;
+
+  border-style: none;
+}
+.top-bar li ul li{
+  text-align: right;
+  background-color: rgba(255, 191, 235, 0.6);
+}
+.top-bar h4, .top-bar a{
+  color: #485FBA;
+  color: black;
+
+}
+/****************************************************
+Header
+*****************************************************/
+.header img{
+  max-height: 25em;
+}
+/****************************************************
+Main
+*****************************************************/
+.main{
+  padding: 2em 0;
+  font-weight:;
+  font-family: 'Catamaran';
+  font-size: 1.2em;
+  color:black;
+}
+.backgr{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+/****************************************************
+Footer
+*****************************************************/
+.footer{
+  background-color: rgb(210,210,210);
+  padding: 2em 0;
+  background-color: rgba(255, 191, 235, 0.6);
+  text-align: center;
+  font-family:;
+}
+hr{
+  border-color: black;
+  color: black;
+}
+.footer img{
+  width: 5em;
+  height: 5em;
+}
+.footer p{
+  color:black;
+}
